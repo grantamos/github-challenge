@@ -1,3 +1,3 @@
 ### Slack Challenge
 
-A simple slack plugin allowing for thread-based github competition.
+A simple slash command for slack allowing for thread-based github stats.
